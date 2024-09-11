@@ -2,7 +2,7 @@
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-- 🔭 I’m currently working on Winnicode Garuda Teknologi
+- 🔭 I’m currently working on Winnicode Garuda Teknologi as a Full Stack Developer
 - 🌱 I’m currently learning about cloud computing
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: fitrahidayaat@gmail.com
