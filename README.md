@@ -12,7 +12,7 @@ I love creating and sharing projects about **web and mobile technologies**! I en
 
 ### 🛠️ Tech Stack
 
-Here are the technologies I work with, categorized for clarity:
+Here are the technologies I work with:
 
 #### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -42,7 +42,7 @@ Here are the technologies I work with, categorized for clarity:
 
 Feel free to reach out to me for collaborations, questions, or just a friendly chat:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fitrahidayaat/)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fitrahidayaat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fitrahidayaat/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fitrahidayaat@gmail.com)
 
 ---
