@@ -6,7 +6,7 @@ I love creating and sharing projects about **web and mobile technologies**! I en
 
 - 💬 Ask me about **web development** or **mobile development**.
 - 📫 Reach me at: **fitrahidayaat@gmail.com**.
-- 🌐 Check out my [LinkedIn](https://linkedin.com/in/fitrahidayaat/).
+- 🌐 Check out my [LinkedIn](https://linkedin.com/in/fitrahidayaat/) and [Portfolio Website](https://fitrahidayat.com/).
 
 ---
 
