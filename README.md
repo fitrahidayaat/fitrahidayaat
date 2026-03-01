@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Fitra
 
-### A Passionate Software Engineer 🚀
+### A Passionate Software Engineer
 
 I love creating and sharing projects about **web and mobile technologies**! I enjoy building projects with it. Whether it's frontend, backend, or full-stack development, I'm always excited to learn and build something new.
 
@@ -10,7 +10,7 @@ I love creating and sharing projects about **web and mobile technologies**! I en
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 Feel free to reach out to me for collaborations, questions, or just a friendly chat:
 
